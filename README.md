@@ -1,4 +1,4 @@
-# Dependencias
+# Dependencias:
 
 >@adiwajshing/baileys<br>
 
